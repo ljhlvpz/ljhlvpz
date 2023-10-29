@@ -12,15 +12,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">- I love to play baskteball and videogames.<br>- I love MARVEL.<br>- Goals: To graduate and to have a bright future.<br>- Fun fact: I got a YouTube channel but it is now inactive.</p>
+<p align="center">- I love to play baskteball and videogames.<br>- I love MARVEL.<br>- Goals: To graduate and to have a bright future.<br>- Fun fact: I got a YouTube channel but it is now inactive.</p>
 
 ###
 
-<h2 align="left">I use</h2>
+<h2 align="center">I Use</h2>
 
 ###
 
@@ -40,13 +40,27 @@
 
 ###
 
+<h2 align="center">My Social Media</h2>
+
+###
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://web.facebook.com/ElijahSaflor.Lavapiez.11/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/ljhlvpz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@EJBunny" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
+
+###
+
+<h4 align="center">Profile Views</h4>
 
 ###
 
