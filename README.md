@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Elijah Joseph S. Lavapiez and I'm a 1st Year College from DFCAMCLP-Satellite Campus</p>
+<p align="center">My name is Elijah Joseph S. Lavapiez and I'm a 1st Year College from DFCAMCLP-Satellite Campus</p>
 
 ###
 
